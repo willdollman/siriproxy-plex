@@ -1,0 +1,8 @@
+About
+----
+A [siriproxy][sp] plugin for controlling [Plex][plex] media servers.
+[sp]:https://github.com/plamoni/SiriProxy
+[plex]:http://www.plexapp.com/
+
+The highlight of this is to be able to say "play film Casino Royale" and have it start playing.
+Also lets you pause and resume playback.
